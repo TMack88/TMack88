@@ -7,11 +7,11 @@
         <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail Logo" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;">
     </a>
 </div>
+I am a Software Engineer
 
+Tech Stacks
 
-
-
-I am a software engineer
+![JavaScript Badge](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
 
 
 
