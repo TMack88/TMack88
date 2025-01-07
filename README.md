@@ -1,14 +1,6 @@
 # Hi  I'm Tim  👋  
-<div style="display: flex; align-items: center; gap: 10px;">
-    <a href="https://www.linkedin.com/in/timothy-mccormack-ii/" target="_blank" style="text-decoration: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;">
-    </a>
-    <a href="mailto:timmccormack88@gmail.com" target="_blank" style="text-decoration: none;">
-        <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail Logo" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;">
-    </a>
-</div>
-I am a Software Engineer passionate about building efficient and impactful applications. I thrive at the intersection of technology and creativity, bringing ideas to life through code.
 
+I am a software engineer who thrives on challenges that push me to think critically and creatively. I enjoy leveraging my skills to develop effective solutions, whether it's streamlining complex systems, solving real-world problems, or building applications that make a meaningful impact. Each challenge is an opportunity to learn, grow, and create something truly valuable.
 ## 🔧 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-yellow?logo=javascript)
@@ -31,18 +23,12 @@ I am a Software Engineer passionate about building efficient and impactful appli
 ## 📫 Connect With Me
 Feel free to reach out for collaborations, questions, or just a friendly chat!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timothy-mccormack-ii/)
-[![Email](https://img.shields.io/badge/Email-timmccormack88@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:timmccormack88@gmail.com)
+<div style="display: flex; align-items: center; gap: 10px;">
+    <a href="https://www.linkedin.com/in/timothy-mccormack-ii/" target="_blank" style="text-decoration: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;">
+    </a>
+    <a href="mailto:timmccormack88@gmail.com" target="_blank" style="text-decoration: none;">
+        <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail Logo" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;">
+    </a>
+</div>
 
-
-
-
-<!--
-**TMack88/TMack88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 📫 
-
--->
