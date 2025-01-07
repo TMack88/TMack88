@@ -1,6 +1,6 @@
 # Hi  I'm Tim  👋  
 
-I am a software engineer who thrives on challenges that push me to think critically and creatively. I enjoy leveraging my skills to develop effective solutions, whether it's streamlining complex systems, solving real-world problems, or building applications that make a meaningful impact. Each challenge is an opportunity to learn, grow, and create something truly valuable.
+I am a software engineer who thrives on challenges that push me to think critically and creatively. I enjoy leveraging my skills to develop effective solutions, whether it's streamlining complex systems, solving real-world problems, or building applications that make a meaningful impact. Each challenge is an opportunity to learn and grow.
 ## 🔧 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-yellow?logo=javascript)
