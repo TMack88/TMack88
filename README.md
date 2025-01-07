@@ -26,7 +26,7 @@ I am a Software Engineer passionate about building efficient and impactful appli
 ![Docker](https://img.shields.io/badge/DOCKER-orange?logo=docker)
 
 ## 🌟 Featured Projects
-- **[SOS Health](https://github.com/your-repo-link):** Full-stack application minimizing medical appointment wait times, leveraging SQL for efficiency.
+- **[SOS Health](https://software-oppssum-squad.gitlab.io/sos-health/):** Full-stack application minimizing medical appointment wait times, leveraging SQL for efficiency.
 
 ## 📫 Connect With Me
 Feel free to reach out for collaborations, questions, or just a friendly chat!
