@@ -1,35 +1,58 @@
-# Hi  I'm Tim  👋  
+# Hi, I'm Tim 👋  
 
-I am a software engineer who thrives on challenges that push me to think critically and creatively. I enjoy leveraging my skills to develop effective solutions, whether it's streamlining complex systems, solving real-world problems, or building applications that make a meaningful impact. Each challenge is an opportunity to learn and grow.
+I’m Software Engineer who thrives on tackling challenges that push me to think critically and creatively. Whether it's streamlining complex systems, solving real-world problems, or building applications that make a meaningful impact, I enjoy leveraging my skills to craft effective solutions. For me, every challenge is an opportunity to learn, grow, and innovate.
+
+---
+
 ## 🔧 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-yellow?logo=javascript)
-![React](https://img.shields.io/badge/REACT-blue?logo=react&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-black?logo=python) 
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-black?logo=postgresql)
-![CSS3](https://img.shields.io/badge/CSS3-black?logo=css3)
-![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-purple?logo=bootstrap)
-![HTML5](https://img.shields.io/badge/HTML5-red?logo=html5)
-![Git](https://img.shields.io/badge/GIT-white?logo=git)
-![MongoDB](https://img.shields.io/badge/MONGODB-green?logo=mongodb)
-![VS Code](https://img.shields.io/badge/VSCODE-blue?logo=visualstudiocode)
-![ESLint](https://img.shields.io/badge/ESLINT-purple?logo=eslint)
-![GitHub](https://img.shields.io/badge/GITHUB-red?logo=github)
-![Docker](https://img.shields.io/badge/DOCKER-orange?logo=docker)
+### **Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+### **Frameworks & Libraries**
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+
+### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
+### **Tools**
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)
+
+---
 
 ## 🌟 Featured Projects
-- **[SOS MedSync](https://software-oppssum-squad.gitlab.io/sos-health/):** Full-stack application minimizing medical appointment wait times, leveraging SQL for efficiency.
-- 
+
+Here are some projects I’ve worked on that showcase my technical expertise and problem-solving abilities:
+
+- **[SOS MedSync](https://software-oppssum-squad.gitlab.io/sos-health/):**  
+  A solution to reduce patient wait times by streamlining provider profiles, insurance management, and backend processes.
+
+- **[AutoHub](https://github.com/TMack88/AutoHub):**  
+  An application for managing automobile dealerships, including inventory, service operations, and sales.
+
+- **[FirstGen Navigator](https://github.com/TMack88/FirstGen-Navigator):**  
+  A platform supporting first-generation, low-income students by addressing financial planning and career opportunities.
+
+- **[Microservice Two Shot](https://github.com/TMack88/Microservice-Two-Shot):**  
+  An organization tool for individuals with extensive closet space, helping them efficiently manage hats and shoes.
+
+---
 
 ## 📫 Connect With Me
-Feel free to reach out for collaborations, questions, or just a friendly chat!
 
-<div style="display: flex; align-items: center; gap: 10px;">
-    <a href="https://www.linkedin.com/in/timothy-mccormack-ii/" target="_blank" style="text-decoration: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;">
-    </a>
-    <a href="mailto:timmccormack88@gmail.com" target="_blank" style="text-decoration: none;">
-        <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail Logo" style="width: 20px; height: 20px; vertical-align: middle; margin-right: 5px;">
-    </a>
-</div>
+I’d love to hear from you! Whether you have a question, a project idea, or just want to chat, feel free to reach out:
+
+- **[LinkedIn](https://www.linkedin.com/in/timothy-mccormack-ii/):** Connect professionally and explore my journey.  
+- **[Email](mailto:timmccormack88@gmail.com):** Drop me a line for collaborations or inquiries.
+
+
 
