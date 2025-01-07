@@ -18,7 +18,7 @@ I am a software engineer who thrives on challenges that push me to think critica
 ![Docker](https://img.shields.io/badge/DOCKER-orange?logo=docker)
 
 ## 🌟 Featured Projects
-- **[SOS Health](https://software-oppssum-squad.gitlab.io/sos-health/):** Full-stack application minimizing medical appointment wait times, leveraging SQL for efficiency.
+- **[SOS MedSync](https://software-oppssum-squad.gitlab.io/sos-health/):** Full-stack application minimizing medical appointment wait times, leveraging SQL for efficiency.
 
 ## 📫 Connect With Me
 Feel free to reach out for collaborations, questions, or just a friendly chat!
